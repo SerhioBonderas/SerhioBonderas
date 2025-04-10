@@ -30,6 +30,7 @@
 ## Как со мной связаться
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/serhio_bon) - https://t.me/serhio_bon
+
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:bssbss163@gmail.com) - bssbss163@gmail.com
 
 
