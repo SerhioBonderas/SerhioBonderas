@@ -32,7 +32,6 @@
 ## 📫 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/serhio_bon)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SerhioBonderas)
 
 📧 bssbss163@gmail.com
 
