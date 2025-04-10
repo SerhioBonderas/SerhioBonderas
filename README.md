@@ -1,6 +1,6 @@
 # 👋 Привет, я Сергей Бондарев 
 
-[![Header](https://raw.githubusercontent.com/SerhioBonderas/SerhioBonderas/main/assets/banner.png)](https://github.com/SerhioBonderas)
+[![Banner](https://raw.githubusercontent.com/SerhioBonderas/SerhioBonderas/main/assets/banner-demo.png)](https://github.com/SerhioBonderas)
 
 Начинающий Frontend-разработчик с фокусом на JavaScript и современные веб-технологии. Здесь вы найдете мои учебные и pet-проекты, созданные в процессе обучения.
 
