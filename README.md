@@ -2,7 +2,7 @@
 
 Начинающий Frontend-разработчик самоучка с фокусом на JavaScript и современные веб-технологии. Здесь, пока что, вы найдете мои учебные и пет-проекты.
 
-## 🛠 Технологический стек
+## Технологический стек
 
 **Основные технологии:**  
 
@@ -17,17 +17,17 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-## 🏆 Мои последние работы
+## Мои последние работы
 
 1. 🏃‍♂️ [Workout Tracker](https://github.com/SerhioBonderas/workout-diary-app) - Дневник тренировок с картой (JavaScript, OOP, Geolocation API)
 2. 🎸 [Website guitarist](https://github.com/SerhioBonderas/website-instructor-of-giutar) - Сайт репититора игры на гитаре (HTML5, CSS3, SASS, БЭМ, медиа-запросы)
 3. 🥐 [Website bakery-shop](https://github.com/SerhioBonderas/website-bakery-shop) - Сайт магазина свежей выпечки (HTML5, CSS3, flex)
 
-## 📈 Статистика
+## Статистика
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhioBonderas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 Как со мной связаться
+## Как со мной связаться
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/serhio_bon) - https://t.me/serhio_bon
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:bssbss163@gmail.com) - bssbss163@gmail.com
