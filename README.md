@@ -25,8 +25,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhioBonderas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SerhioBonderas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Как со мной связаться
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/serhio_bon)
