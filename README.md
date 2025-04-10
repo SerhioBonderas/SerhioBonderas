@@ -1,6 +1,23 @@
 # 👋 Привет, я Сергей Бондарев 
 
-
+<p align="center">
+  <!-- Баннер с встроенными SVG -->
+  <svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+    <!-- Фон -->
+    <rect width="100%" height="100%" fill="#2b5876"/>
+    
+    <!-- Текст -->
+    <text x="50%" y="40%" font-size="40" fill="white" text-anchor="middle">
+      Сергей Бондарев | Frontend Developer
+    </text>
+    
+    <!-- Иконка JavaScript -->
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="35%" y="55%" width="50" height="50"/>
+    
+    <!-- Иконка React -->
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="45%" y="55%" width="50" height="50"/>
+  </svg>
+</p>
 
 Начинающий Frontend-разработчик с фокусом на JavaScript и современные веб-технологии. Здесь вы найдете мои учебные и pet-проекты, созданные в процессе обучения.
 
