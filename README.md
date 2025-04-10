@@ -17,9 +17,9 @@
 
 ## 🏆 Мои последние работы
 
-1. [Workout Tracker](https://github.com/SerhioBonderas/workout-diary-app) - Дневник тренировок с картой (JavaScript, OOP, Geolocation API)
-2. [Website guitarist](https://github.com/SerhioBonderas/website-instructor-of-giutar) - Сайт репититора игры на гитаре (HTML5, CSS3, SASS, БЭМ, медиа-запросы)
-3. [Website bakery-shop](https://github.com/SerhioBonderas/website-bakery-shop) - Сайт магазина свежей выпечки (HTML5, CSS3, flex)
+1. 🎸 [Workout Tracker](https://github.com/SerhioBonderas/workout-diary-app) - Дневник тренировок с картой (JavaScript, OOP, Geolocation API)
+2. 🏃‍♂️ [Website guitarist](https://github.com/SerhioBonderas/website-instructor-of-giutar) - Сайт репититора игры на гитаре (HTML5, CSS3, SASS, БЭМ, медиа-запросы)
+3. 🥐 [Website bakery-shop](https://github.com/SerhioBonderas/website-bakery-shop) - Сайт магазина свежей выпечки (HTML5, CSS3, flex)
 
 ## 📈 Статистика
 
