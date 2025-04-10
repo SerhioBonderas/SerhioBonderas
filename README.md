@@ -22,7 +22,7 @@
 | Проект | Описание | Технологии |
 |--------|----------|------------|
 | 🏃‍♂️ [Workout Tracker](https://github.com/SerhioBonderas/workout-diary-app) | Трекер тренировок с картой и статистикой | JavaScript (OOP), Geolocation API, LocalStorage |
-| 🎸 [Guitar Instructor](https://github.com/SerhioBonderas/website-instructor-of-giutar) | Сайт преподавателя гитары | HTML5, CSS3, SASS, БЭМ, Адаптивная верстка |
+| 🎸 [Guitar Instructor](https://github.com/SerhioBonderas/website-instructor-of-giutar) | Сайт преподавателя игры на гитаре | HTML5, CSS3, SASS, БЭМ, Адаптивная верстка |
 | 🥐 [Bakery Shop](https://github.com/SerhioBonderas/website-bakery-shop) | Лендинг пекарни | HTML5, CSS3, Flexbox |
 
 ## 📊 Статистика активности
@@ -32,8 +32,8 @@
 ## 📫 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/serhio_bon)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bssbss163@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SerhioBonderas)
+📧
 
 ---
 
