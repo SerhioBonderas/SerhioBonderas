@@ -1,10 +1,9 @@
 
 [![Banner](https://github.com/SerhioBonderas/SerhioBonderas/blob/main/assets/banner.png)](https://github.com/SerhioBonderas)
 
-<div align='center'>
-  ## Привет, рад приветствовать вас в моем профиле! 
-  Меня зовут Сергей Бондарев, я начинающий Frontend-разработчик с фокусом на JavaScript и современные веб-технологии. Здесь вы найдете мои учебные и pet-проекты, созданные в процессе обучения.
-</div>
+
+## Привет, рад приветствовать вас в моем профиле!
+Меня зовут Сергей Бондарев, я начинающий Frontend-разработчик с фокусом на JavaScript и современные веб-технологии. Здесь вы найдете мои учебные и pet-проекты, созданные в процессе обучения.
 
 ## 🛠 Технологический стек
 
@@ -24,10 +23,12 @@
 ## 🏆 Лучшие проекты
 
 🏃‍♂️ [Workout Tracker](https://github.com/SerhioBonderas/workout-diary-app) - дневник тренировок с картой и статистикой (JavaScript (OOP), Geolocation API, LocalStorage)
+
 🎸 [Guitar Instructor](https://github.com/SerhioBonderas/website-instructor-of-giutar) - сайт преподавателя игры на гитаре (HTML5, CSS3, SASS, JS, БЭМ, Адаптивная верстка)
+
 🥐 [Bakery Shop](https://github.com/SerhioBonderas/website-bakery-shop) - лендинг пекарни (HTML5, CSS3, Flexbox, Yandex Maps)
 
-## 📊 Статистика активности
+## 📊 Статистика
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhioBonderas&layout=compact&theme=radical&exclude_repo=website-bakery-shop,website-instructor-of-giutar)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -35,7 +36,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/serhio_bon)
 
-📧 bssbss163@gmail.com
+## 📧 bssbss163@gmail.com
 
 ---
 
