@@ -4,7 +4,7 @@
 
 <div align="center"><strong>Привет! Меня зовут Сергей Бондарев, я начинающий Frontend-разработчик с фокусом на JavaScript и современные веб-технологии. Здесь вы найдете мои учебные и pet-проекты, созданные в процессе обучения.</strong></div><br><br>
 
-<div>
+<div align="center">
 <table>
   <tr>
     <td valign="top">
