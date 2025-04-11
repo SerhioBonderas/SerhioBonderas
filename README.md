@@ -1,5 +1,5 @@
 
-[![Banner](https://github.com/SerhioBonderas/SerhioBonderas/blob/main/assets/banner.png)](https://github.com/SerhioBonderas)
+[![Banner](https://github.com/SerhioBonderas/SerhioBonderas/blob/main/assets/second-banner.png)](https://github.com/SerhioBonderas)
 
 
 ## Привет, рад приветствовать вас в моем профиле!
