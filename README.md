@@ -2,7 +2,7 @@
 [![Banner](https://github.com/SerhioBonderas/SerhioBonderas/blob/main/assets/banner-file.png)](https://github.com/SerhioBonderas)
 
 
-# Привет, рад вас приветствовать!
+# Рад вас приветствовать!
 ### Меня зовут Сергей Бондарев, я начинающий Frontend-разработчик с фокусом на JavaScript и современные веб-технологии. Здесь вы найдете мои учебные и pet-проекты, созданные в процессе обучения.
 
 <br><div>
