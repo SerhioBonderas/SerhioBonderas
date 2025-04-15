@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
     </td>
     <td>
-      <strong>📈 Статистика</strong><br><br>
+      <div align="center"><strong>📈 Статистика</strong></div><br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerhioBonderas&layout=compact&theme=radical" alt="Top Langs">
     </td>
   </tr>
