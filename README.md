@@ -33,6 +33,8 @@
 
 🏃‍♂️ [Workout Tracker](https://github.com/SerhioBonderas/workout-diary-app) - дневник тренировок с картой и статистикой (JavaScript (OOP), Geolocation API, LocalStorage)
 
+🎈 [Balloon Flight](https://github.com/SerhioBonderas/hot-air-balloon-flights) - сайт компании по организации полетов на воздушных шарах. На данный момент проект еще в работе. Упор на css-анимации, применение продвинутых приемов адаптации (HTML5, CSS3, SASS (Keyframes, Transitions, Transforms), БЭМ)
+
 🎸 [Guitar Instructor](https://github.com/SerhioBonderas/website-instructor-of-giutar) - сайт преподавателя игры на гитаре (HTML5, CSS3, SASS, JS, БЭМ, Адаптивная верстка)
 
 🥐 [Bakery Shop](https://github.com/SerhioBonderas/website-bakery-shop) - лендинг пекарни (HTML5, CSS3, Flexbox, Yandex Maps) <br>
